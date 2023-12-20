@@ -1,0 +1,31 @@
+/* src/index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+*,
+*::before,
+*::after {
+  /* font-family: "Poppins"; */
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  background-color:#EFF3F8;
+}
+
+/* Scrollbar Track */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Scrollbar Thumb (the draggable part) */
+::-webkit-scrollbar-thumb {
+  background-color: #365ebc;
+  border-radius: 4px;
+}
+
+/* Hover effect on the thumb */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
