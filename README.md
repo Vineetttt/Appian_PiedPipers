@@ -29,7 +29,7 @@ https://github.com/Ajitesh72/DevNest/assets/95878363/4b275dd7-80cd-4304-8dd9-c54
 
 YouTube links:
 
-- [Application Demo](https://www.youtube.com/watch?v=vB8JA47IAk)
+- [Application Demo](https://www.youtube.com/watch?v=vB8JA47IAkw)
 - [Discord Bot Demo](https://youtu.be/LevDxl9sX2o)
 
 ## Features
