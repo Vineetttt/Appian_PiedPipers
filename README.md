@@ -29,7 +29,7 @@ https://github.com/Ajitesh72/DevNest/assets/95878363/4b275dd7-80cd-4304-8dd9-c54
 
 
 
-youtube link -https://www.youtube.com/watch?v=anrZWqtSyac   ,    https://youtu.be/2n8x51gOu6g
+youtube link - https://www.youtube.com/watch?v=vB8JA47IAk,https://youtu.be/LevDxl9sX2o
 
 ## Features
 
@@ -88,7 +88,7 @@ Detailed instructions can be found in the [Documentation](https://docs.google.co
 ## Presentation
 
 We welcome contributions! Check out our Presentation for more details.: 
-[DevNest.pdf](https://github.com/Ajitesh72/DevNest/files/13415432/DevNest.pdf)
+[DevNest.pdf]([https://github.com/Ajitesh72/DevNest/files/13415432/DevNest.pdf](https://drive.google.com/file/d/1yMP1pgzGbYAihv0GaFsRSelz6tl3M3KL/view?usp=sharing)https://drive.google.com/file/d/1yMP1pgzGbYAihv0GaFsRSelz6tl3M3KL/view?usp=sharing)
 
 
 **Happy Coding with Devnest! 🚀**
